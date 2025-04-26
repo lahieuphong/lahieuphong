@@ -16,9 +16,7 @@
 ---
 
 ### Footer:  
-<div align="center">
-  <p>📫 我的联系方式：</p>
-  <p>📝 Email: hieuphong144 (at) gmail.com</p>
-  <p>🌐 [Instagram](https://www.instagram.com/hieuphonggggg/)</p>
-  <p>🔗 [LinkedIn Profile](https://www.linkedin.com/in/la-hi%E1%BB%83u-phong-04359a362/)</p>
-</div>
+📫 我的联系方式:
+📝 Email: hieuphong144 (at) gmail.com
+🌐 [Instagram](https://www.instagram.com/hieuphonggggg/)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/la-hi%E1%BB%83u-phong-04359a362/)
