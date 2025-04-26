@@ -1,5 +1,5 @@
 <a href="https://github.com/lahieuphong">
-   <img align="right" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=lahieuphong&layout=compact&theme=radical&langs_count=8](https://github-readme-stats.vercel.app/api?username=lahieuphong&show_icons=true&theme=tokyonight)"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=lahieuphong&show_icons=true&theme=tokyonight" />
 </a>
 
 ### 你好 👋
