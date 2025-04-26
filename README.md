@@ -10,8 +10,10 @@
 
 ---
 
-### 📊 最多使用的编程语言:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lahieuphong&layout=compact&theme=radical&langs_count=8)
+<div align="center">
+  ### 📊 最多使用的编程语言:
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lahieuphong&layout=compact&theme=radical&langs_count=8)
+</div>
 
 ---
 
