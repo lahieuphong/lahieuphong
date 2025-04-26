@@ -1,5 +1,5 @@
 <a href="https://github.com/lahieuphong">
-   <img align="right" src="https://github-readme-stats.vercel.app/api?username=lahieuphong&show_icons=true&theme=dark&count_private=true"/>
+   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahieuphong&layout=compact&theme=radical&langs_count=8"/>
 </a>
 
 ### 你好 👋
@@ -10,12 +10,15 @@
 
 ---
 
-### 📫 我的联系方式：  
-  📨 hieuphong144 (at) gmail.com  
-  🌐 [Instagram](https://www.instagram.com/hieuphonggggg/)  
-  🔗 [LinkedIn Profile](https://www.linkedin.com/in/la-hi%E1%BB%83u-phong-04359a362/)  
+### 📊 Top Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lahieuphong&layout=compact&theme=radical&langs_count=8)
 
 ---
 
-### 📊 GitHub Stats:
-![La Hieu Phong's GitHub stats](https://github-readme-stats.vercel.app/api?username=lahieuphong&show_icons=true&theme=dark&count_private=true)
+### Footer:  
+<div align="center">
+  <p>📫 我的联系方式：</p>
+  <p>📝 Email: hieuphong144 (at) gmail.com</p>
+  <p>🌐 [Instagram](https://www.instagram.com/hieuphonggggg/)</p>
+  <p>🔗 [LinkedIn Profile](https://www.linkedin.com/in/la-hi%E1%BB%83u-phong-04359a362/)</p>
+</div>
