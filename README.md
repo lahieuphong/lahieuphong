@@ -19,4 +19,4 @@
 📝 Email: hieuphong144 (at) gmail.com
 📸 [Facebook](https://www.facebook.com/lahieuphong2111/)
 🌐 [Instagram](https://www.instagram.com/hieuphonggggg/)
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/la-hieu-phong-04359a362/)
+🔗 [LinkedIn](https://www.linkedin.com/in/la-hieu-phong-04359a362/)
