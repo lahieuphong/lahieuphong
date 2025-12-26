@@ -6,8 +6,17 @@
 
 ---
 
-### 我的联系方式:
-📝 Email: hieuphong144 (at) gmail.com
-📸 [Facebook](https://www.facebook.com/lahieuphong2111/)
-🌐 [Instagram](https://www.instagram.com/hieuphonggggg/)
+### 📊 技术栈与语言使用情况
+
+<svg id="gh-dark-mode-only" width="360" height="210" xmlns="http://www.w3.org/2000/svg">
+<!-- 你的 SVG 内容原封不动放在这里 -->
+</svg>
+
+---
+
+### 📬 我的联系方式
+
+📝 Email: hieuphong144 (at) gmail.com  
+📸 [Facebook](https://www.facebook.com/lahieuphong2111/)  
+🌐 [Instagram](https://www.instagram.com/hieuphonggggg/)  
 🔗 [LinkedIn](https://www.linkedin.com/in/la-hieu-phong-04359a362/)
